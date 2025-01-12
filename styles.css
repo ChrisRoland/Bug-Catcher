@@ -24,7 +24,7 @@ h1 {
 .btn {
     border: none;
     background-color: #fff;
-    color: #516dff;
+    color: #1363b3;
     padding: 15px 20px;
     font-family: inherit;
     cursor: pointer;
@@ -76,7 +76,7 @@ h1 {
 
 .choose-bug-btn:hover {
     background-color: #fff;
-    color: #516dff;
+    color: #1363b3;
 }
 
 .choose-bug-btn:active {
